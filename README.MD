@@ -1,6 +1,5 @@
 # Linkumori Rules
 
-Custom URL cleaning rules for the [Linkumori](https://github.com/Linkumori/Linkumori_Addon_MV3-Firefox_RULES.git) Firefox extension (Manifest V3).
 
 This repository contains `custom-rules.json` — a community-maintained list of site-specific rules that strip tracking parameters, analytics tokens, and other noise from URLs.
 
