@@ -3,6 +3,7 @@
 
 This repository contains `custom-rules.json` — a community-maintained list of site-specific rules that strip tracking parameters, analytics tokens, and other noise from URLs.
 
+Extension repo  https://github.com/Linkumori/Linkumori-Addon-MV3-Firefox
 ## What This Does
 
 Each rule entry targets a specific domain and defines:
