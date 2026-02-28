@@ -34,8 +34,7 @@ contributing.md     — How to contribute new rules
 
 ## Usage
 
-This file is consumed not directly by the Linkumori Firefox extension since we merged clearurls rule with this rule. If you maintain your own fork of the extension, point it at your fork of this rules file.
-
+This file is consumed not directly by the Linkumori Firefox extension since we merged clearurls rule with this rule. 
 ## License
 
 [BSD-style](License.md) — Copyright (c) 2026 Subham Mahesh
