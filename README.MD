@@ -1,4 +1,4 @@
-# Linkumori Rules
+# Linkumori Rules Community (version)
 
 
 This repository contains `custom-rules.json` — a community-maintained list of site-specific rules that strip tracking parameters, analytics tokens, and other noise from URLs.
